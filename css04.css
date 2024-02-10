@@ -1,0 +1,257 @@
+header img{
+width:130px;
+height:130px;
+}
+
+header{
+background-color:white;
+position:fixed;
+top:0;
+left:0;
+right:0;
+display:flex;
+height:130px;
+border-top:10px solid black;
+border-bottom:10px solid #ffbf00;
+}
+
+
+
+#pic{
+top:150px;
+float:right;
+border:solid 5px black;
+border-radius:200px;
+text-align:center;
+text-variant:small_caps;
+width:200px;
+background-color:white;
+box-shadow:10px 10px;
+padding-right:15px;
+
+}
+
+
+
+
+body{
+
+background-color:white;
+}
+
+#pic img{
+width:125px;
+height:125px;
+
+}
+h1{
+font-family:Bernard MT Condensed;
+text-align:center;
+
+}
+
+
+
+
+p{
+
+font-variant:small-caps;
+font-size:25px;
+}
+
+table td{
+text-align:center;
+border-width:3px;
+color:white;
+}
+table th{
+color:white;
+}
+
+ul li{
+font-size:20px;
+}
+
+caption.a{
+ font-size:20px;
+}
+
+table{
+border-width:5px;
+border-color:#008080;
+
+}
+
+#main{
+align:center;
+
+}
+
+#more img{
+width:200px;
+height:200px;
+border-radius:360px;
+
+}
+
+#more{
+background-color:white;
+margin:auto;
+width:900px;
+padding:10px;
+border-bottom:10px #ffbf00 solid;
+border-style:solid;
+border-color:#ffbf00;
+align:center;
+
+}
+
+.heading-1{
+text-align:center;
+font-family:comic sans MS;
+font size:7;
+color:black;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+
+
+
+
+#para li{
+color:black;
+
+}
+
+#table{
+padding-left:100px;
+padding-right:100px;
+}
+#para h2{
+size:7px;
+}
+#para p{
+color:#1c256a;
+
+align:center;
+}
+
+
+.container{
+  display: grid;
+ padding-top: 200px;
+padding-bottom:0px;
+ grid-template-columns: repeat(4,1fr);
+ height:50px;
+}
+.item{
+background-color:yellow;
+}
+
+.item-1{
+background:#ffbf00;
+border:solid;
+
+}
+.item-2{
+background:white;
+border:solid
+}
+.foods{
+text-align:center;
+color:white;
+}
+.meadicine{
+text-align:center;
+}
+.ID{
+text-align:center;
+}
+.train{
+color:white;
+}
+
+.item-3{
+background:#ffbf00;
+text-align:center;
+
+border:solid black;
+}
+
+.item-4{
+background:white;
+border:solid;
+
+}
+.begale{
+color:#5DADE2;
+}
+.poodle{
+color:#5DADE2;
+}
+.vizsla{
+
+color:#5DADE2;
+}
+.bull{
+color:#5DADE2;
+}
+.collie{
+color:#5DADE2;
+}
+
+.item-01{
+padding-top:50px;
+
+
+}
+.item-02{
+padding-top:50px;
+
+}
+
+
+.item-03{
+padding-top:50px;
+}
+
+.item-04{
+padding-top:50px;
+}
+
+
+.c-i-2{
+text-align:center;
+}
+
+.c-i-1{
+text-align:center;
+}
+
+.c-i-4{
+text-align:center;
+}
+ .more-1{
+text-align:center;
+}
+ .more-2{
+text-align:center;
+}
+.more-3{
+text-align:center;
+}
+.more-4{
+text-align:center;
+}
+.more-5{
+text-align:center;
+}
+.main-3-img-table{
+transform:scale(1.5, 0.5);
+}
+.main-3-footer{
+background-color:#008080;
+height:100px;
+margin-top:600px;
+}
+

@@ -1,0 +1,66 @@
+body{
+background-image:url('main_bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+   }
+
+header{
+background-color:white;
+left:0;
+right:0;
+top:0;
+height:80px;
+display:flex;
+align-items:center;
+position:fixed;
+ 
+
+}
+header img{
+height:80px;
+}
+
+header * {
+display:inline;
+}
+
+#para{
+padding-right:200px;
+padding-left:200px;
+padding-top:80px;
+}
+
+nav{
+  display: flex; /* use flexbox layout */
+  justify-content: center; /* center the items horizontally */
+font-family: sans-serif;
+  font-color:black;
+font-size:25px;
+
+}
+
+ul {
+  display: flex;
+  list-style: none;
+
+
+}
+
+li {
+margin: 0 10px; /* add margin to separate the items */
+}
+
+a{
+  text-decoration: none;
+margin-left:20px;
+
+
+}
+
+.logo{
+padding-left:80px;
+}
+
+
